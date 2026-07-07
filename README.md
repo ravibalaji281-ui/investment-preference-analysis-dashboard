@@ -1,4 +1,4 @@
-# investment-preference-analysis-dashboard📊 Investment Preference Analysis Dashboard
+# investment-preference-analysis-dashboard
 
 📌 Project Overview
 
